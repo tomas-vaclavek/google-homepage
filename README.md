@@ -1,0 +1,2 @@
+This is my first attempt at using version control properly, I'm going to follow whatever the great Odin tells me to.
+It feels good to be back on track again, maybe I've been down too many rabbit holes the last two weeks. Can't believe I first registered at github almost 3 weeks ago and it's only today that I get to use it. All of the previous research will make the current project a piece of cake! Hmm, caaake.
