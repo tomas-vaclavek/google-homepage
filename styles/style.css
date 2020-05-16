@@ -1,0 +1,66 @@
+body {
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    color: #5F6368;
+}
+
+#google {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#logo {
+    padding: 25px; 
+}
+
+.search-flex {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    padding: 0px;
+    height: 44px;
+    width: 582px;
+}
+
+.search-flex:hover {
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+    border-color: rgba(223,225,229,0);
+}
+
+input[type=text] {
+    width: 483px;
+    height: 30px;
+    margin-top: 7px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+ }
+
+.button {
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    font-size: 14px;
+    border-radius: 4px;
+    color: #5F6368;
+    cursor: pointer;
+    margin: 26px 4px;
+    padding: 0 16px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+}
+
+a {
+    padding: 5px;
+    text-decoration: none;
+}
+
+#mic {
+    width: 20px;
+    height: 20px;
+}
